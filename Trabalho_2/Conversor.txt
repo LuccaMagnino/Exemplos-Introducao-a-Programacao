@@ -1,0 +1,23 @@
+TRABALHO 2: Conversor 2.0
+Nome do arquivo: Conversor_2_0.c
+
+NOMES:
+-Guilherme Sousa Rodrigues
+-João Vitor Sousa de Oliveira
+-Lucca Magnino
+
+Explicação do projeto:
+
+Fizemos um programa em C utilizando as matérias das partes 1 e 2 das aulas de Introdução a Programação.
+A função desse programa é de converter unidades de diferentes grandezas, como tempo, massa, distância
+e temperatura. O conversor é similar ao feito no primeiro trabalho, mas usamos strings, vetores, matrizes
+e alocação dinâmica para deixa o codigo mais organizado e eficiente. Colocamos diversos comentários para
+facilitar a identificação do que estava sendo feito.
+
+Ao final do código possuem 4 casos de teste para o usuário. 
+
+Para compilar esse arquivo, basta utilizar, em seu terminal, a seguinte linha de código =
+Após já estar na pasta que encontra-se o programa em C ($cd):
+$gcc Conversor_2_0.c -o NomeDoExecutável
+
+

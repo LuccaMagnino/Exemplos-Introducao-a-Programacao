@@ -1,0 +1,20 @@
+TRABALHO 3: Conversor 3.0
+Nome do arquivo: Conversor_3_0.c
+
+NOMES:
+-Guilherme Sousa Rodrigues
+-João Vitor Sousa de Oliveira
+-Lucca Magnino
+
+Explicação do projeto:
+
+Para esse trabalho, mantivemos a ideia das últimas duas submissões, essa sendo a de criar um conversor de
+unidades em C, entretanto, dessa vez, utilizamos as matérias vistas ao longo de todas as aulas de Introdução
+a Programação. Os assuntos novos que foram abordados são: funções recursivas, structs e arquivos. Mantivemos 
+os comentários variados para facilitar no entendimento do código. 
+
+Ao final do código possuem 4 casos de teste para o usuário. 
+
+Para compilar esse arquivo, basta utilizar, em seu terminal, a seguinte linha de código =
+Após já estar na pasta que encontra-se o programa em C ($cd):
+$gcc Conversor_3_0.c -o NomeDoExecutável

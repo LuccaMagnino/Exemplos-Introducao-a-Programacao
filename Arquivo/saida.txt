@@ -1,0 +1,2 @@
+Soma dos numeros: 130
+Media: 32.50
